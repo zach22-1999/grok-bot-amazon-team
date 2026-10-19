@@ -1,0 +1,56 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="80" x2="1160" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7F4EC"/>
+      <stop offset="1" stop-color="#EEF3EF"/>
+    </linearGradient>
+    <filter id="shadow" x="700" y="96" width="520" height="460" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#0F3B2E" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="640" rx="24" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1280" height="640" rx="24" stroke="#D9E4DC"/>
+
+  <rect x="84" y="84" width="132" height="38" rx="19" fill="#103B2F"/>
+  <text x="150" y="109" text-anchor="middle" fill="white" font-size="18" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="700">公开仓库</text>
+
+  <rect x="84" y="146" width="520" height="6" rx="3" fill="#D9E4DC"/>
+
+  <text x="84" y="240" fill="#103B2F" font-size="64" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="800">Grok Bot 亚马逊团队</text>
+  <text x="84" y="322" fill="#4B675B" font-size="30" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="600">1 个船长 + 12 个 AI 岗位</text>
+  <text x="84" y="374" fill="#5E786D" font-size="24" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="500">岗位职责与能力边界，照着给机器人写说明</text>
+
+  <g>
+    <rect x="84" y="430" width="148" height="46" rx="23" fill="#EAF2ED"/>
+    <text x="158" y="460" text-anchor="middle" fill="#103B2F" font-size="22" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="700">船长派活</text>
+
+    <rect x="248" y="430" width="148" height="46" rx="23" fill="#EAF2ED"/>
+    <text x="322" y="460" text-anchor="middle" fill="#103B2F" font-size="22" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="700">老板拍板</text>
+
+    <rect x="412" y="430" width="148" height="46" rx="23" fill="#EAF2ED"/>
+    <text x="486" y="460" text-anchor="middle" fill="#103B2F" font-size="22" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="700">每周复盘</text>
+  </g>
+
+  <!-- 右侧：1 个船长 + 12 个岗位示意 -->
+  <g filter="url(#shadow)">
+    <rect x="732" y="128" width="456" height="380" rx="28" fill="white"/>
+  </g>
+  <rect x="868" y="164" width="184" height="54" rx="18" fill="#103B2F"/>
+  <text x="960" y="199" text-anchor="middle" fill="white" font-size="22" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="700">出海船长</text>
+  <rect x="959" y="218" width="2" height="30" fill="#C8D9D0"/>
+  <rect x="790" y="247" width="340" height="2" fill="#C8D9D0"/>
+  <g fill="#F2F7F4" stroke="#D9E4DC">
+    <rect x="772" y="268" width="80" height="48" rx="14"/><rect x="866" y="268" width="80" height="48" rx="14"/><rect x="960" y="268" width="80" height="48" rx="14"/><rect x="1054" y="268" width="80" height="48" rx="14"/>
+    <rect x="772" y="330" width="80" height="48" rx="14"/><rect x="866" y="330" width="80" height="48" rx="14"/><rect x="960" y="330" width="80" height="48" rx="14"/><rect x="1054" y="330" width="80" height="48" rx="14"/>
+    <rect x="772" y="392" width="80" height="48" rx="14"/><rect x="866" y="392" width="80" height="48" rx="14"/><rect x="960" y="392" width="80" height="48" rx="14"/><rect x="1054" y="392" width="80" height="48" rx="14"/>
+  </g>
+  <g fill="#103B2F" font-size="16" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="600" text-anchor="middle">
+    <text x="812" y="297">找机会</text><text x="906" y="297">助理</text><text x="1000" y="297">VOC</text><text x="1094" y="297">数据</text>
+    <text x="812" y="359">广告</text><text x="906" y="359">财务</text><text x="1000" y="359">供应链</text><text x="1094" y="359">文案</text>
+    <text x="812" y="421">设计</text><text x="906" y="421">流量</text><text x="1000" y="421">合规</text><text x="1094" y="421">复盘</text>
+  </g>
+  <text x="960" y="482" text-anchor="middle" fill="#6D8479" font-size="18" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="600">都只向船长汇报</text>
+
+  <text x="1190" y="590" text-anchor="end" fill="#6D8479" font-size="20" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="600">公开可照搬</text>
+</svg>
