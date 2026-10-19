@@ -157,4 +157,4 @@ v1.0（2026-10-19），和公众号回复「Grok Bot组织架构」领到的附�
 
 ## License
 
-本仓库内容采用 [CC BY 4.0](./LICENSE) 许可：可以免费使用、修改和商用。转载或改编时，请注明来源（Zach｜公众号「Zach的进化笔记」），附上本仓库链接，并注明采用 CC BY 4.0 许可（https://creativecommons.org/licenses/by/4.0/）；改过的地方请写明。
+© 2026 Zach（公众号「Zach的进化笔记」）。本仓库内容采用 [CC BY 4.0](./LICENSE) 许可：可以免费使用、修改和商用。转载或改编时，请注明来源（Zach｜公众号「Zach的进化笔记」），附上本仓库链接，并注明采用 CC BY 4.0 许可（https://creativecommons.org/licenses/by/4.0/）；改过的地方请写明。
